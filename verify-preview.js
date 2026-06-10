@@ -6,6 +6,7 @@ const productsHtml = fs.readFileSync("products.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
 const robots = fs.readFileSync("robots.txt", "utf8");
+const analytics = fs.readFileSync("analytics.js", "utf8");
 const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html") && !/^google.*\.html$/.test(file));
 
 const requiredText = [
@@ -108,6 +109,11 @@ if (!sitemap.includes("https://www.pokechinawholesale.com/products.html")) {
 
 if (!robots.includes("Sitemap: https://www.pokechinawholesale.com/sitemap.xml")) {
   console.error("robots.txt missing sitemap URL.");
+  process.exit(1);
+}
+
+if (!analytics.includes('G-27HDZZVFW0')) {
+  console.error("analytics.js missing GA4 measurement ID.");
   process.exit(1);
 }
 

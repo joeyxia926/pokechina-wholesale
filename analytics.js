@@ -1,5 +1,5 @@
 (function () {
-  var measurementId = "";
+  var measurementId = "G-27HDZZVFW0";
 
   if (!measurementId) return;
 
