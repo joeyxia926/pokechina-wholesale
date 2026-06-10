@@ -24,6 +24,8 @@ header { position: sticky; top: 0; z-index: 5; background: rgba(255,255,255,.88)
 .nav a:hover { color: var(--red); transform: translateY(-1px); }
 .nav a:hover::after { transform: scaleX(1); }
 .nav .cta { margin-left: auto; background: linear-gradient(135deg, var(--red), #f04438); color: #fff; padding: 10px 14px; border-radius: var(--radius); font-weight: 800; box-shadow: 0 10px 22px rgba(227,53,13,.24); }
+.language-select { border: 1px solid var(--line); border-radius: var(--radius); background: #fff; color: var(--text); min-width: 132px; min-height: 38px; padding: 0 10px; font-weight: 800; cursor: pointer; box-shadow: 0 6px 14px rgba(16,24,40,.06); }
+.language-select:focus { outline: 2px solid rgba(227,53,13,.16); border-color: var(--red); }
 main { max-width: 1200px; margin: 0 auto; padding: 28px 22px 56px; animation: pageIn .46s ease both; }
 .page-shell { animation: pageIn .46s ease both; }
 .hero { display: grid; grid-template-columns: 1.25fr .75fr; gap: 18px; margin-bottom: 22px; }

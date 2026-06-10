@@ -9,6 +9,7 @@ const dealsDataScript = fs.readFileSync("deals-data.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
 const robots = fs.readFileSync("robots.txt", "utf8");
 const analytics = fs.readFileSync("analytics.js", "utf8");
+const i18n = fs.readFileSync("i18n.js", "utf8");
 const css = fs.readFileSync("site.css", "utf8");
 const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html") && !/^google.*\.html$/.test(file));
 
@@ -57,6 +58,10 @@ for (const file of htmlFiles) {
   if (!page.includes('<link rel="canonical"')) missing.push(`${file} missing canonical URL.`);
   if (!page.includes('<meta property="og:title"')) missing.push(`${file} missing Open Graph title.`);
   if (!page.includes('<script defer src="analytics.js"></script>')) missing.push(`${file} missing analytics placeholder.`);
+  if (!page.includes('<script src="i18n.js"></script>')) missing.push(`${file} missing language script.`);
+  if (!page.includes('class="language-select"')) missing.push(`${file} missing language selector.`);
+  if (!page.includes('<option value="zh">&#20013;&#25991;</option>') || !page.includes('<option value="ja">&#26085;&#26412;&#35486;</option>')) missing.push(`${file} missing language fallback options.`);
+  if (/data-i18n="[^"]+"\s+data-i18n=/.test(page)) missing.push(`${file} has duplicate data-i18n attributes.`);
   if (!page.includes("<main class=\"page-shell\"")) missing.push(`${file} missing page transition shell.`);
 }
 
@@ -78,6 +83,9 @@ if (html.includes("product-catalog") || html.includes("products-data.js")) {
 }
 for (const text of ["Chinese Pokemon Products", "catalog-search", "catalog-count", "products-data.js"]) {
   if (!productsHtml.includes(text)) missing.push(`Products page missing: ${text}`);
+}
+for (const text of ["localizeProduct", "productCategory", "productDescription", "packConfiguration", "shippingOrigin"]) {
+  if (!productsHtml.includes(text) && !i18n.includes(text)) missing.push(`Product localization missing: ${text}`);
 }
 if (!productsHtml.includes("product-image-placeholder")) {
   missing.push("Products page should keep a product image placeholder area.");
@@ -104,6 +112,9 @@ if (!products.every((product) => product.imageUrl.startsWith("data:image/svg+xml
 
 for (const text of ["U.S. Clearance Deals", "deal-catalog", "deals-data.js", "Ask About Current Deals"]) {
   if (!dealsHtml.includes(text)) missing.push(`Deals page missing: ${text}`);
+}
+for (const text of ["dealText", "dt(deal.description)", "dt(deal.price)", "dt(deal.quantity)"]) {
+  if (!dealsHtml.includes(text) && !i18n.includes(text)) missing.push(`Deal localization missing: ${text}`);
 }
 for (const text of ["deal-live-pill", "page-shell", "shimmer", "@keyframes pageIn", "@keyframes shimmer"]) {
   const source = text === "deal-live-pill" || text === "page-shell" ? dealsHtml : css;
@@ -139,6 +150,18 @@ if (!robots.includes("Sitemap: https://www.pokechinawholesale.com/sitemap.xml"))
 
 if (!analytics.includes('G-27HDZZVFW0')) {
   console.error("analytics.js missing GA4 measurement ID.");
+  process.exit(1);
+}
+
+for (const lang of ["en", "zh", "es", "fr", "ja"]) {
+  if (!i18n.includes(`${lang}:`)) {
+    console.error(`i18n.js missing ${lang} translations.`);
+    process.exit(1);
+  }
+}
+
+if (!css.includes(".language-select")) {
+  console.error("site.css missing language selector styles.");
   process.exit(1);
 }
 
