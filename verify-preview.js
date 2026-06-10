@@ -1,7 +1,7 @@
 const fs = require("fs");
 const vm = require("vm");
 
-const html = fs.readFileSync("usma-wholesale-preview.html", "utf8");
+const html = fs.readFileSync("index.html", "utf8");
 const productsHtml = fs.readFileSync("products.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
 const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html"));
@@ -19,7 +19,7 @@ const requiredText = [
 ];
 
 const requiredLinks = [
-  "usma-wholesale-preview.html",
+  "index.html",
   "products.html",
   "about.html",
   "inquiry.html",
