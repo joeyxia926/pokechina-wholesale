@@ -48,6 +48,10 @@ for (const file of htmlFiles) {
   const page = fs.readFileSync(file, "utf8");
   if (!page.includes("assets/horizontal-white-bg-1200.png")) missing.push(`${file} missing header logo.`);
   if (!page.includes("assets/icon-square-128.png")) missing.push(`${file} missing favicon.`);
+  if (!page.includes('<meta name="description"')) missing.push(`${file} missing meta description.`);
+  if (!page.includes('<link rel="canonical"')) missing.push(`${file} missing canonical URL.`);
+  if (!page.includes('<meta property="og:title"')) missing.push(`${file} missing Open Graph title.`);
+  if (!page.includes('<script defer src="analytics.js"></script>')) missing.push(`${file} missing analytics placeholder.`);
 }
 
 for (const link of requiredLinks) {
