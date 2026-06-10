@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Products | PokeChina Wholesale</title>
+  <link rel="icon" type="image/png" href="assets/icon-square-128.png">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <a class="brand" href="usma-wholesale-preview.html" aria-label="PokeChina Wholesale Home"><img src="assets/horizontal-white-bg-1200.png" alt="USMA PokeChina Wholesale"></a>
+      <a href="usma-wholesale-preview.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About Us</a>
+      <a href="inquiry.html">Wholesale Inquiry</a>
+      <a href="encyclopedia.html">Chinese Pokemon Encyclopedia</a>
+      <a href="insights.html">News & Market Insights</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact Us</a>
+      <a class="cta" href="inquiry.html">Request Wholesale Pricing</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="card">
+        <div class="eyebrow">Wholesale Product Catalog</div>
+        <h1 style="color:#1f2933;font-size:40px">Chinese Pokemon Products</h1>
+        <p>Browse the current wholesale catalog. Public retail pricing is not displayed; qualified buyers can request current MOQ, inventory, case quantity, and wholesale pricing.</p>
+        <div class="actions">
+          <a class="button primary" href="inquiry.html">Request Wholesale Pricing</a>
+          <a class="button secondary" href="contact.html">Contact Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="catalog-controls">
+        <div class="catalog-search-row">
+          <input class="catalog-search" id="catalog-search" type="search" placeholder="Search booster boxes, gift boxes, single cards...">
+          <div class="catalog-count" id="catalog-count"></div>
+        </div>
+        <div class="catalog-toolbar" id="catalog-filters"></div>
+      </div>
+      <div class="catalog-grid" id="product-catalog"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div><h3>PokeChina Wholesale</h3><p>Professional Chinese Pokemon wholesale support for North American buyers.</p></div>
+      <div>
+        <h3>Navigation</h3>
+        <a href="usma-wholesale-preview.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="about.html">About Us</a>
+        <a href="inquiry.html">Wholesale Inquiry</a>
+        <a href="encyclopedia.html">Chinese Pokemon Encyclopedia</a>
+        <a href="insights.html">News & Market Insights</a>
+        <a href="faq.html">FAQ</a>
+        <a href="contact.html">Contact Us</a>
+      </div>
+      <div>
+        <h3>Useful Links</h3>
+        <a href="https://www.instagram.com/lasvegas_pokemon_wholesale/">Instagram</a>
+        <a href="https://www.tiktok.com/@universal.breakz?is_from_webapp=1&sender_device=pc">TikTok</a>
+        <a href="https://www.whatnot.com/s/JMnqBCi3">Whatnot</a>
+        <a href="mailto:usma.pokemon.2026@gmail.com">Email</a>
+        <a href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20Chinese%20Pok%C3%A9mon%20wholesale%20pricing.">WhatsApp</a>
+      </div>
+    </div>
+  </footer>
+
+  <a class="whatsapp-float" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20Chinese%20Pok%C3%A9mon%20wholesale%20pricing." target="_blank" rel="noopener">Chat on WhatsApp</a>
+  <script src="products-data.js"></script>
+  <script>
+    const catalog = document.getElementById("product-catalog");
+    const filters = document.getElementById("catalog-filters");
+    const searchInput = document.getElementById("catalog-search");
+    const countLabel = document.getElementById("catalog-count");
+    const products = window.POKECHINA_PRODUCTS || [];
+    const categories = ["All", ...Array.from(new Set(products.map((product) => product.category)))];
+    let activeCategory = "All";
+    let activeSearch = "";
+
+    function productCard(product) {
+      const source = product.sourceUrl
+        ? `<a class="source-link" href="${product.sourceUrl}" target="_blank" rel="noopener">Image/source: ${product.sourceHost || "product page"}</a>`
+        : `<span class="source-link">Official image pending verification</span>`;
+      return `
+        <article class="product">
+          <div class="product-image-placeholder">Product image coming soon</div>
+          <div class="product-body">
+            <span class="badge">${product.category}</span>
+            <h3>${product.name}</h3>
+            <p class="product-description">${product.description}</p>
+            <ul class="detail-list">
+              <li>${product.releaseFamily}</li>
+              <li>${product.packConfiguration}</li>
+              <li>${product.shippingOrigin}</li>
+              <li>${product.moq}</li>
+            </ul>
+            <a class="button primary" href="inquiry.html">Request Wholesale Pricing</a>
+            ${source}
+          </div>
+        </article>`;
+    }
+
+    function renderProducts() {
+      const query = activeSearch.trim().toLowerCase();
+      const visible = products.filter((product) => {
+        const categoryMatch = activeCategory === "All" || product.category === activeCategory;
+        const searchMatch = !query || [product.name, product.category, product.description, product.releaseFamily].join(" ").toLowerCase().includes(query);
+        return categoryMatch && searchMatch;
+      });
+      catalog.innerHTML = visible.map(productCard).join("");
+      countLabel.textContent = `${visible.length} of ${products.length} products shown`;
+      Array.from(filters.querySelectorAll("button")).forEach((button) => {
+        button.classList.toggle("active", button.dataset.category === activeCategory);
+      });
+    }
+
+    filters.innerHTML = categories.map((category) => `<button type="button" data-category="${category}">${category}</button>`).join("");
+    filters.addEventListener("click", (event) => {
+      if (event.target.matches("button")) {
+        activeCategory = event.target.dataset.category;
+        renderProducts();
+      }
+    });
+    searchInput.addEventListener("input", (event) => {
+      activeSearch = event.target.value;
+      renderProducts();
+    });
+    renderProducts();
+  </script>
+</body>
+</html>
