@@ -4,7 +4,9 @@ const vm = require("vm");
 const html = fs.readFileSync("index.html", "utf8");
 const productsHtml = fs.readFileSync("products.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
-const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html"));
+const sitemap = fs.readFileSync("sitemap.xml", "utf8");
+const robots = fs.readFileSync("robots.txt", "utf8");
+const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html") && !/^google.*\.html$/.test(file));
 
 const requiredText = [
   "Chinese Pokemon Wholesale Made Simple",
@@ -92,6 +94,16 @@ if (!products.every((product) => product.imageUrl.startsWith("data:image/svg+xml
 
 if (missing.length) {
   console.error(missing.join("\n"));
+  process.exit(1);
+}
+
+if (!sitemap.includes("https://www.pokechinawholesale.com/products.html")) {
+  console.error("Sitemap missing products page.");
+  process.exit(1);
+}
+
+if (!robots.includes("Sitemap: https://www.pokechinawholesale.com/sitemap.xml")) {
+  console.error("robots.txt missing sitemap URL.");
   process.exit(1);
 }
 
