@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>U.S. Clearance Deals | PokeChina Wholesale</title>
+  <meta name="description" content="Browse U.S.-shipped clearance and closeout deals for wholesale buyers, resellers, card shops, livestream sellers, and online sellers.">
+  <link rel="canonical" href="https://www.pokechinawholesale.com/deals.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="U.S. Clearance Deals | PokeChina Wholesale">
+  <meta property="og:description" content="U.S.-shipped closeout and clearance inventory for wholesale buyers and resellers looking for strong deals.">
+  <meta property="og:url" content="https://www.pokechinawholesale.com/deals.html">
+  <meta property="og:image" content="https://www.pokechinawholesale.com/assets/horizontal-white-bg-1200.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="U.S. Clearance Deals | PokeChina Wholesale">
+  <meta name="twitter:description" content="U.S.-shipped closeout and clearance inventory for wholesale buyers and resellers looking for strong deals.">
+  <link rel="icon" type="image/png" href="assets/icon-square-128.png">
+  <link rel="stylesheet" href="site.css">
+  <script defer src="analytics.js"></script>
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <a class="brand" href="index.html" aria-label="PokeChina Wholesale Home"><img src="assets/horizontal-white-bg-1200.png" alt="USMA PokeChina Wholesale"></a>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="deals.html">U.S. Clearance Deals</a>
+      <a href="about.html">About Us</a>
+      <a href="inquiry.html">Wholesale Inquiry</a>
+      <a href="encyclopedia.html">Chinese Pokemon Encyclopedia</a>
+      <a href="insights.html">News & Market Insights</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact Us</a>
+      <a class="cta" href="inquiry.html">Request Wholesale Pricing</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="card clearance-hero">
+        <div>
+          <div class="eyebrow">U.S. Warehouse Closeout Inventory</div>
+          <h1 style="color:#1f2933;font-size:40px">U.S. Clearance Deals</h1>
+          <p>Fast domestic shipping for non-Pokemon closeout products, overstock lots, reseller inventory, and limited-quantity deals. Built for buyers who want strong margins without waiting for overseas freight.</p>
+          <div class="actions">
+            <a class="button primary" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20U.S.%20clearance%20deal%20inventory." target="_blank" rel="noopener">Ask About Current Deals</a>
+            <a class="button secondary" href="contact.html">Contact Us</a>
+          </div>
+        </div>
+        <div class="deal-note">
+          <b>Deal-focused inventory</b>
+          <p>Products may change quickly. Availability, pricing, and quantity are confirmed before payment.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="catalog-controls">
+        <div class="catalog-search-row">
+          <input class="catalog-search" id="deal-search" type="search" placeholder="Search clearance deals, categories, locations...">
+          <div class="catalog-count" id="deal-count"></div>
+        </div>
+        <div class="catalog-toolbar" id="deal-filters"></div>
+      </div>
+      <div class="catalog-grid" id="deal-catalog"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div><h3>PokeChina Wholesale</h3><p>Chinese Pokemon wholesale and selected U.S. closeout deal opportunities for North American buyers.</p></div>
+      <div>
+        <h3>Navigation</h3>
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="deals.html">U.S. Clearance Deals</a>
+        <a href="about.html">About Us</a>
+        <a href="inquiry.html">Wholesale Inquiry</a>
+        <a href="encyclopedia.html">Chinese Pokemon Encyclopedia</a>
+        <a href="insights.html">News & Market Insights</a>
+        <a href="faq.html">FAQ</a>
+        <a href="contact.html">Contact Us</a>
+      </div>
+      <div>
+        <h3>Useful Links</h3>
+        <a href="https://www.instagram.com/lasvegas_pokemon_wholesale/">Instagram</a>
+        <a href="https://www.tiktok.com/@universal.breakz?is_from_webapp=1&sender_device=pc">TikTok</a>
+        <a href="https://www.whatnot.com/s/JMnqBCi3">Whatnot</a>
+        <a href="mailto:usma.pokemon.2026@gmail.com">Email</a>
+        <a href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20Chinese%20Pok%C3%A9mon%20wholesale%20pricing.">WhatsApp</a>
+      </div>
+    </div>
+  </footer>
+
+  <a class="whatsapp-float" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20U.S.%20clearance%20deal%20inventory." target="_blank" rel="noopener">Chat on WhatsApp</a>
+  <script src="deals-data.js"></script>
+  <script>
+    const dealCatalog = document.getElementById("deal-catalog");
+    const dealFilters = document.getElementById("deal-filters");
+    const dealSearchInput = document.getElementById("deal-search");
+    const dealCountLabel = document.getElementById("deal-count");
+    const deals = window.POKECHINA_CLEARANCE_DEALS || [];
+    const dealCategories = ["All", ...Array.from(new Set(deals.map((deal) => deal.category)))];
+    let activeDealCategory = "All";
+    let activeDealSearch = "";
+
+    function dealCard(deal) {
+      const image = deal.imageUrl
+        ? `<div class="product-image-wrap"><img class="product-image" src="${deal.imageUrl}" alt="${deal.name}"></div>`
+        : `<div class="product-image-placeholder">Product image coming soon</div>`;
+      return `
+        <article class="product deal-card">
+          ${image}
+          <div class="product-body">
+            <span class="badge">${deal.category}</span>
+            <h3>${deal.name}</h3>
+            <p class="product-description">${deal.description}</p>
+            <ul class="detail-list">
+              <li><strong>Price:</strong> ${deal.price}</li>
+              <li><strong>Quantity:</strong> ${deal.quantity}</li>
+              <li><strong>Location:</strong> ${deal.location}</li>
+              <li><strong>Condition:</strong> ${deal.condition}</li>
+            </ul>
+            <a class="button primary" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20this%20U.S.%20clearance%20deal%3A%20${encodeURIComponent(deal.name)}" target="_blank" rel="noopener">Ask About This Deal</a>
+          </div>
+        </article>`;
+    }
+
+    function renderDeals() {
+      const query = activeDealSearch.trim().toLowerCase();
+      const visible = deals.filter((deal) => {
+        const categoryMatch = activeDealCategory === "All" || deal.category === activeDealCategory;
+        const searchMatch = !query || [deal.name, deal.category, deal.description, deal.price, deal.quantity, deal.location, deal.condition].join(" ").toLowerCase().includes(query);
+        return categoryMatch && searchMatch;
+      });
+      dealCatalog.innerHTML = visible.map(dealCard).join("");
+      dealCountLabel.textContent = `${visible.length} of ${deals.length} deals shown`;
+      Array.from(dealFilters.querySelectorAll("button")).forEach((button) => {
+        button.classList.toggle("active", button.dataset.category === activeDealCategory);
+      });
+    }
+
+    dealFilters.innerHTML = dealCategories.map((category) => `<button type="button" data-category="${category}">${category}</button>`).join("");
+    dealFilters.addEventListener("click", (event) => {
+      if (event.target.matches("button")) {
+        activeDealCategory = event.target.dataset.category;
+        renderDeals();
+      }
+    });
+    dealSearchInput.addEventListener("input", (event) => {
+      activeDealSearch = event.target.value;
+      renderDeals();
+    });
+    renderDeals();
+  </script>
+</body>
+</html>

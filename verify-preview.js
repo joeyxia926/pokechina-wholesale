@@ -3,7 +3,9 @@ const vm = require("vm");
 
 const html = fs.readFileSync("index.html", "utf8");
 const productsHtml = fs.readFileSync("products.html", "utf8");
+const dealsHtml = fs.readFileSync("deals.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
+const dealsDataScript = fs.readFileSync("deals-data.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
 const robots = fs.readFileSync("robots.txt", "utf8");
 const analytics = fs.readFileSync("analytics.js", "utf8");
@@ -24,6 +26,7 @@ const requiredText = [
 const requiredLinks = [
   "index.html",
   "products.html",
+  "deals.html",
   "about.html",
   "inquiry.html",
   "encyclopedia.html",
@@ -97,6 +100,17 @@ if (!products.every((product) => product.imageUrl.startsWith("data:image/svg+xml
   missing.push("Every product must have either a verified external image or generated placeholder image.");
 }
 
+for (const text of ["U.S. Clearance Deals", "deal-catalog", "deals-data.js", "Ask About Current Deals"]) {
+  if (!dealsHtml.includes(text)) missing.push(`Deals page missing: ${text}`);
+}
+const dealSandbox = { window: {} };
+vm.runInNewContext(dealsDataScript, dealSandbox);
+const deals = dealSandbox.window.POKECHINA_CLEARANCE_DEALS || [];
+if (!deals.length) missing.push("Expected at least one clearance deal template.");
+if (!deals.every((deal) => deal.name && deal.category && deal.price && deal.quantity && deal.location && deal.description)) {
+  missing.push("Every clearance deal must include name, category, price, quantity, location, and description.");
+}
+
 if (missing.length) {
   console.error(missing.join("\n"));
   process.exit(1);
@@ -104,6 +118,11 @@ if (missing.length) {
 
 if (!sitemap.includes("https://www.pokechinawholesale.com/products.html")) {
   console.error("Sitemap missing products page.");
+  process.exit(1);
+}
+
+if (!sitemap.includes("https://www.pokechinawholesale.com/deals.html")) {
+  console.error("Sitemap missing deals page.");
   process.exit(1);
 }
 

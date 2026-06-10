@@ -76,6 +76,11 @@ p { color: var(--muted); line-height: 1.55; }
 .step b { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; background: var(--red); color: #fff; border-radius: 50%; margin-bottom: 10px; }
 .article { padding: 18px; min-height: 132px; }
 .gallery { min-height: 150px; padding: 14px; background: linear-gradient(135deg, #fff, #f0f3f7); display: flex; align-items: end; font-weight: 800; color: #4b5563; }
+.clearance-hero { display: grid; grid-template-columns: 1.4fr .6fr; gap: 18px; align-items: stretch; }
+.deal-note { border: 1px solid #ffd6ae; border-radius: var(--radius); background: #fff7ed; padding: 18px; display: flex; flex-direction: column; justify-content: center; }
+.deal-note b { color: #c4320a; font-size: 18px; }
+.deal-note p { margin-bottom: 0; }
+.deal-card .detail-list strong { color: var(--text); }
 .faq { display: grid; gap: 10px; }
 .faq div { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; font-weight: 800; }
 .footer { background: #1f2933; color: #e5e7eb; margin-top: 30px; padding: 34px 22px 80px; }
@@ -86,7 +91,7 @@ p { color: var(--muted); line-height: 1.55; }
 .whatsapp-float { position: fixed; right: 20px; bottom: 20px; z-index: 10; background: #25d366; color: #fff; text-decoration: none; padding: 13px 16px; border-radius: 999px; font-weight: 900; box-shadow: 0 10px 24px rgba(0,0,0,.18); }
 @media (max-width: 900px) {
   .nav .cta { margin-left: 0; }
-  .hero, .grid-2, .grid-3, .grid-4, .stats, .catalog-grid { grid-template-columns: 1fr; }
+  .hero, .grid-2, .grid-3, .grid-4, .stats, .catalog-grid, .clearance-hero { grid-template-columns: 1fr; }
   .footer-inner { grid-template-columns: 1fr; }
   .catalog-search-row { align-items: stretch; flex-direction: column; }
   .catalog-count { white-space: normal; }
