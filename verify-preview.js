@@ -9,6 +9,7 @@ const dealsDataScript = fs.readFileSync("deals-data.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
 const robots = fs.readFileSync("robots.txt", "utf8");
 const analytics = fs.readFileSync("analytics.js", "utf8");
+const css = fs.readFileSync("site.css", "utf8");
 const htmlFiles = fs.readdirSync(".").filter((file) => file.endsWith(".html") && !/^google.*\.html$/.test(file));
 
 const requiredText = [
@@ -56,6 +57,7 @@ for (const file of htmlFiles) {
   if (!page.includes('<link rel="canonical"')) missing.push(`${file} missing canonical URL.`);
   if (!page.includes('<meta property="og:title"')) missing.push(`${file} missing Open Graph title.`);
   if (!page.includes('<script defer src="analytics.js"></script>')) missing.push(`${file} missing analytics placeholder.`);
+  if (!page.includes("<main class=\"page-shell\"")) missing.push(`${file} missing page transition shell.`);
 }
 
 for (const link of requiredLinks) {
@@ -102,6 +104,10 @@ if (!products.every((product) => product.imageUrl.startsWith("data:image/svg+xml
 
 for (const text of ["U.S. Clearance Deals", "deal-catalog", "deals-data.js", "Ask About Current Deals"]) {
   if (!dealsHtml.includes(text)) missing.push(`Deals page missing: ${text}`);
+}
+for (const text of ["deal-live-pill", "page-shell", "shimmer", "@keyframes pageIn", "@keyframes shimmer"]) {
+  const source = text === "deal-live-pill" || text === "page-shell" ? dealsHtml : css;
+  if (!source.includes(text)) missing.push(`Motion system missing: ${text}`);
 }
 const dealSandbox = { window: {} };
 vm.runInNewContext(dealsDataScript, dealSandbox);
