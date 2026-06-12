@@ -5,6 +5,7 @@ const html = fs.readFileSync("index.html", "utf8");
 const productsHtml = fs.readFileSync("products.html", "utf8");
 const dealsHtml = fs.readFileSync("deals.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
+const productPricesScript = fs.readFileSync("product-prices.js", "utf8");
 const dealsDataScript = fs.readFileSync("deals-data.js", "utf8");
 const shipmentGalleryScript = fs.readFileSync("shipment-gallery.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
@@ -91,6 +92,9 @@ for (const text of ["PCW_SHIPMENT_PHOTOS", "setInterval", "2000"]) {
 for (const text of ["Chinese Pokemon Products", "catalog-search", "catalog-count", "products-data.js"]) {
   if (!productsHtml.includes(text)) missing.push(`Products page missing: ${text}`);
 }
+for (const text of ["product-prices.js", "product-price-panel", "baseCasePrice", "plusShippingFee", "shippingQuotedByDestination"]) {
+  if (!productsHtml.includes(text) && !productPricesScript.includes(text) && !i18n.includes(text)) missing.push(`Product price display missing: ${text}`);
+}
 for (const text of ["localizeProduct", "productCategory", "productDescription", "packConfiguration", "shippingOrigin"]) {
   if (!productsHtml.includes(text) && !i18n.includes(text)) missing.push(`Product localization missing: ${text}`);
 }
@@ -104,7 +108,16 @@ if (productsHtml.includes("product-image-wrap") || productsHtml.includes("<img c
 const sandbox = { window: {} };
 vm.runInNewContext(productDataScript, sandbox);
 const products = sandbox.window.POKECHINA_PRODUCTS || [];
+const priceSandbox = { window: {} };
+vm.runInNewContext(productPricesScript, priceSandbox);
+const prices = priceSandbox.window.PCW_PRODUCT_PRICES;
 if (products.length !== 87) missing.push(`Expected 87 products, found ${products.length}.`);
+if (!prices || !products.every((product) => prices.get(product.name))) {
+  missing.push("Every product must match a current price-sheet entry.");
+}
+if (/\bUPS\/CASE\/USD\b|shippingUsd|127\.5|141\.1|173\.0|252\.5|342\.1/.test(productPricesScript)) {
+  missing.push("Product prices file should not publish specific shipping fee amounts.");
+}
 if (!products.every((product) => product.name && product.imageUrl && product.imageAlt && product.description)) {
   missing.push("Every product must include name, imageUrl, imageAlt, and description.");
 }

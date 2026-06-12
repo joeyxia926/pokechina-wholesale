@@ -42,7 +42,7 @@
       <div class="card">
         <div class="eyebrow" data-i18n="productCatalog">Wholesale Product Catalog</div>
         <h1 style="color:#1f2933;font-size:40px" data-i18n="productsTitle">Chinese Pokemon Products</h1>
-        <p data-i18n="productsBody">Browse the current wholesale catalog. Public retail pricing is not displayed; qualified buyers can request current MOQ, inventory, case quantity, and wholesale pricing.</p>
+        <p data-i18n="productsBody">Browse the current wholesale catalog. Base case pricing is shown for reference, with shipping fee quoted separately by destination country.</p>
         <div class="actions">
           <a class="button primary" href="inquiry.html" data-i18n="requestPricing">Request Wholesale Pricing</a>
           <a class="button secondary" href="contact.html" data-i18n="contactUsButton">Contact Us</a>
@@ -90,12 +90,14 @@
 
   <a class="whatsapp-float" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20Chinese%20Pok%C3%A9mon%20wholesale%20pricing." target="_blank" rel="noopener" data-i18n="chatWhatsApp">Chat on WhatsApp</a>
   <script src="products-data.js"></script>
+  <script src="product-prices.js"></script>
   <script>
     const catalog = document.getElementById("product-catalog");
     const filters = document.getElementById("catalog-filters");
     const searchInput = document.getElementById("catalog-search");
     const countLabel = document.getElementById("catalog-count");
     const products = window.POKECHINA_PRODUCTS || [];
+    const productPrices = window.PCW_PRODUCT_PRICES || null;
     const categoryValues = ["All", ...Array.from(new Set(products.map((product) => product.category)))];
     let activeCategory = "All";
     let activeSearch = "";
@@ -111,6 +113,9 @@
 
     function productCard(product) {
       const localized = localizeProduct(product);
+      const price = productPrices ? productPrices.get(product.name) : null;
+      const priceValue = price ? price.displayPrice : t("contactCurrentQuote");
+      const caseLabel = price && price.caseQuantity ? `${t("caseQty")}: ${price.caseQuantity}` : t("caseQtyConfirm");
       const source = product.sourceUrl
         ? `<a class="source-link" href="${product.sourceUrl}" target="_blank" rel="noopener">Image/source: ${product.sourceHost || "product page"}</a>`
         : `<span class="source-link">${t("sourcePending")}</span>`;
@@ -127,6 +132,11 @@
               <li>${localized.shippingOrigin}</li>
               <li>${localized.moq}</li>
             </ul>
+            <div class="product-price-panel">
+              <span>${t("baseCasePrice")}</span>
+              <strong>${priceValue} <em>${t("plusShippingFee")}</em></strong>
+              <small>${caseLabel} · ${t("shippingQuotedByDestination")}</small>
+            </div>
             <a class="button primary" href="inquiry.html">${t("requestPricing")}</a>
             ${source}
           </div>
