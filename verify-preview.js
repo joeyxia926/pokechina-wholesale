@@ -6,6 +6,7 @@ const productsHtml = fs.readFileSync("products.html", "utf8");
 const dealsHtml = fs.readFileSync("deals.html", "utf8");
 const productDataScript = fs.readFileSync("products-data.js", "utf8");
 const dealsDataScript = fs.readFileSync("deals-data.js", "utf8");
+const shipmentGalleryScript = fs.readFileSync("shipment-gallery.js", "utf8");
 const sitemap = fs.readFileSync("sitemap.xml", "utf8");
 const robots = fs.readFileSync("robots.txt", "utf8");
 const analytics = fs.readFileSync("analytics.js", "utf8");
@@ -80,6 +81,12 @@ if (!/https:\/\/wa\.me\/\d+\?text=Hello%2C%20I%20am%20interested%20in%20Chinese%
 
 if (html.includes("product-catalog") || html.includes("products-data.js")) {
   missing.push("Homepage should not include the full product catalog.");
+}
+for (const text of ["shipment-section", "shipment-gallery-image", "shipment-gallery.js", "shipmentEyebrow", "shipmentTitle"]) {
+  if (!html.includes(text)) missing.push(`Homepage shipment gallery missing: ${text}`);
+}
+for (const text of ["PCW_SHIPMENT_PHOTOS", "setInterval", "2000"]) {
+  if (!shipmentGalleryScript.includes(text)) missing.push(`Shipment gallery script missing: ${text}`);
 }
 for (const text of ["Chinese Pokemon Products", "catalog-search", "catalog-count", "products-data.js"]) {
   if (!productsHtml.includes(text)) missing.push(`Products page missing: ${text}`);
@@ -163,6 +170,13 @@ for (const lang of ["en", "zh", "es", "fr", "ja"]) {
 if (!css.includes(".language-select")) {
   console.error("site.css missing language selector styles.");
   process.exit(1);
+}
+
+for (const text of [".shipment-section", ".shipment-image.is-visible", ".shipment-dots span.active"]) {
+  if (!css.includes(text)) {
+    console.error(`site.css missing shipment gallery style: ${text}`);
+    process.exit(1);
+  }
 }
 
 console.log("Preview content checks passed.");
