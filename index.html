@@ -70,25 +70,27 @@
       </div>
     </section>
 
-    <section class="section shipment-section">
-      <div class="shipment-copy">
-        <div class="eyebrow" data-i18n="shipmentEyebrow">Recent Buyer Shipments</div>
-        <h2 data-i18n="shipmentTitle">Real Shipment Updates</h2>
-        <p data-i18n="shipmentBody">We use this space to share recent packing and shipping photos, helping wholesale buyers see active fulfillment and real operating activity.</p>
-        <a class="button primary" href="inquiry.html" data-i18n="requestPricing">Request Wholesale Pricing</a>
+    <section class="section new-arrivals-section">
+      <div class="new-arrivals-copy">
+        <div class="eyebrow" data-i18n="newArrivalsEyebrow">New Product Arrivals</div>
+        <h2 data-i18n="newArrivalsTitle">Latest Chinese Pokemon Inventory</h2>
+        <p data-i18n="newArrivalsBody">Use this space to highlight newly arrived products, limited allocations, and fresh wholesale opportunities for buyers.</p>
+        <a class="button primary" href="products.html" data-i18n="viewProducts">View Products</a>
       </div>
-      <div class="shipment-gallery card">
-        <div class="shipment-frame">
-          <img id="shipment-gallery-image" class="shipment-image" alt="Recent PokeChina Wholesale shipment photo">
-          <div class="shipment-counter" id="shipment-gallery-count">1 / 4</div>
+      <div class="new-arrivals-gallery card">
+        <div class="new-arrivals-frame">
+          <img id="new-arrivals-gallery-image" class="new-arrivals-image" alt="Latest PokeChina Wholesale product arrival photo">
+          <button class="new-arrivals-expand" id="new-arrivals-expand" type="button">View larger</button>
+          <div class="new-arrivals-counter" id="new-arrivals-gallery-count">1 / 14</div>
         </div>
-        <div class="shipment-meta">
+        <div class="new-arrivals-meta">
           <div>
-            <h3 id="shipment-gallery-title">Wholesale shipment preparation</h3>
-            <p id="shipment-gallery-caption">Packed orders staged for buyer confirmation before dispatch.</p>
+            <h3 id="new-arrivals-gallery-title">Latest product arrival</h3>
+            <p id="new-arrivals-gallery-caption">Click the image to view larger, or choose a thumbnail to browse new inventory.</p>
           </div>
-          <div class="shipment-dots" id="shipment-gallery-dots" aria-hidden="true"></div>
+          <div class="new-arrivals-dots" id="new-arrivals-gallery-dots" aria-hidden="true"></div>
         </div>
+        <div class="new-arrivals-thumbnails" id="new-arrivals-thumbnails" aria-label="Choose new arrival photo"></div>
       </div>
     </section>
 
@@ -155,6 +157,6 @@
   </footer>
 
   <a class="whatsapp-float" href="https://wa.me/17203170080?text=Hello%2C%20I%20am%20interested%20in%20Chinese%20Pok%C3%A9mon%20wholesale%20pricing." target="_blank" rel="noopener" data-i18n="chatWhatsApp">Chat on WhatsApp</a>
-  <script src="shipment-gallery.js"></script>
+  <script src="new-arrivals-gallery.js"></script>
 </body>
 </html>
