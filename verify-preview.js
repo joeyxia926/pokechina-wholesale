@@ -111,7 +111,7 @@ const products = sandbox.window.POKECHINA_PRODUCTS || [];
 const priceSandbox = { window: {} };
 vm.runInNewContext(productPricesScript, priceSandbox);
 const prices = priceSandbox.window.PCW_PRODUCT_PRICES;
-if (products.length !== 87) missing.push(`Expected 87 products, found ${products.length}.`);
+if (products.length !== 94) missing.push(`Expected 94 products, found ${products.length}.`);
 if (!prices || !products.every((product) => prices.get(product.name))) {
   missing.push("Every product must match a current price-sheet entry.");
 }
