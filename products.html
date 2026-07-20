@@ -59,6 +59,9 @@
         <div class="catalog-toolbar" id="catalog-filters"></div>
       </div>
       <div class="catalog-grid" id="product-catalog"></div>
+      <div class="catalog-load-more-row">
+        <button class="button secondary catalog-load-more" id="catalog-load-more" type="button" data-i18n="loadMoreProducts">Load More Products</button>
+      </div>
     </section>
   </main>
 
@@ -96,11 +99,14 @@
     const filters = document.getElementById("catalog-filters");
     const searchInput = document.getElementById("catalog-search");
     const countLabel = document.getElementById("catalog-count");
+    const loadMoreButton = document.getElementById("catalog-load-more");
     const products = window.POKECHINA_PRODUCTS || [];
     const productPrices = window.PCW_PRODUCT_PRICES || null;
     const categoryValues = ["All", ...Array.from(new Set(products.map((product) => product.category)))];
+    const pageSize = 24;
     let activeCategory = "All";
     let activeSearch = "";
+    let visibleLimit = pageSize;
     const t = (key) => window.PCW_I18N ? window.PCW_I18N.t(key) : key;
     const escapeHtml = (value) => String(value || "").replace(/[&<>"']/g, (char) => ({
       "&": "&amp;",
@@ -159,8 +165,10 @@
         const searchMatch = !query || [product.name, product.category, product.description, product.releaseFamily].join(" ").toLowerCase().includes(query);
         return categoryMatch && searchMatch;
       });
-      catalog.innerHTML = visible.map(productCard).join("");
-      countLabel.textContent = `${visible.length} / ${products.length} ${t("shown")}`;
+      const displayed = visible.slice(0, visibleLimit);
+      catalog.innerHTML = displayed.map(productCard).join("");
+      countLabel.textContent = `${displayed.length} / ${visible.length} ${t("shown")}`;
+      loadMoreButton.hidden = displayed.length >= visible.length;
       Array.from(filters.querySelectorAll("button")).forEach((button) => {
         button.classList.toggle("active", button.dataset.category === activeCategory);
       });
@@ -173,11 +181,17 @@
     filters.addEventListener("click", (event) => {
       if (event.target.matches("button")) {
         activeCategory = event.target.dataset.category;
+        visibleLimit = pageSize;
         renderProducts();
       }
     });
     searchInput.addEventListener("input", (event) => {
       activeSearch = event.target.value;
+      visibleLimit = pageSize;
+      renderProducts();
+    });
+    loadMoreButton.addEventListener("click", () => {
+      visibleLimit += pageSize;
       renderProducts();
     });
     window.addEventListener("pcw:languagechange", () => {

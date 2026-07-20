@@ -3,7 +3,7 @@ window.POKECHINA_PRODUCTS = [
     "id": "pcw-001",
     "name": "CSM2aC: Shining Synergy - Shower Booster Box（Sold as a 3-carton set）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSM2aC Shining Synergy - Shower Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-001.jpg",
     "imageAlt": "CSM2aC Shining Synergy Shower Booster Box Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -12,13 +12,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSM2aC: Shining Synergy - Shower Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSM2aC: Shining Synergy - Shower Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSM2aC Shining Synergy - Shower Booster Box.png"
   },
   {
     "id": "pcw-002",
     "name": "CSM2bC: Shining Synergy - Supreme Booster Box（Sold as a 3-carton set）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSM2bC Shining Synergy - Supreme Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-002.jpg",
     "imageAlt": "CSM2bC Shining Synergy Supreme Booster Box Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -27,13 +28,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSM2bC: Shining Synergy - Supreme Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSM2bC: Shining Synergy - Supreme Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSM2bC Shining Synergy - Supreme Booster Box.png"
   },
   {
     "id": "pcw-003",
     "name": "CSM2cC: Shining Synergy - Summon Booster Box（Sold as a 3-carton set）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSM2cC Shining Synergy - Summon Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-003.jpg",
     "imageAlt": "CSM2cC Shining Synergy Summon Booster Box Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -42,13 +44,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSM2cC: Shining Synergy - Summon Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSM2cC: Shining Synergy - Summon Booster Box（Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSM2cC Shining Synergy - Summon Booster Box.png"
   },
   {
     "id": "pcw-004",
     "name": "CSM2.5C: Striking Competition Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSM2.5C Striking Competition Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-004.jpg",
     "imageAlt": "CSM2 5C Striking Competition Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -57,13 +60,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSM2.5C: Striking Competition Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSM2.5C: Striking Competition Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSM2.5C Striking Competition Booster Box.png"
   },
   {
     "id": "pcw-005",
     "name": "CS1aC: Dynamax Clash - Thunder Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS1aC Dynamax Clash - Thunder Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-005.jpg",
     "imageAlt": "CS1aC Dynamax Clash Thunder Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -72,13 +76,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS1aC: Dynamax Clash - Thunder Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS1aC: Dynamax Clash - Thunder Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS1aC Dynamax Clash - Thunder Booster Box.png"
   },
   {
     "id": "pcw-006",
     "name": "CS1bC: Dynamax Clash - Flame Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS1bC Dynamax Clash - Flame Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-006.jpg",
     "imageAlt": "CS1bC Dynamax Clash Flame Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -87,13 +92,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS1bC: Dynamax Clash - Flame Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS1bC: Dynamax Clash - Flame Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS1bC Dynamax Clash - Flame Booster Box.png"
   },
   {
     "id": "pcw-007",
     "name": "CS2aC: Vivid Portrayals - Obsidian Booster Box（Sold as a 2-carton pair）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS2aC Vivid Portrayals - Obsidian Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-007.jpg",
     "imageAlt": "CS2aC Vivid Portrayals Obsidian Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -102,13 +108,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS2aC: Vivid Portrayals - Obsidian Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS2aC: Vivid Portrayals - Obsidian Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS2aC Vivid Portrayals - Obsidian Booster Box.png"
   },
   {
     "id": "pcw-008",
     "name": "CS2bC: Vivid Portrayals - Indigo Booster Box（Sold as a 2-carton pair）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS2bC Vivid Portrayals - Indigo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-008.jpg",
     "imageAlt": "CS2bC Vivid Portrayals Indigo Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -117,13 +124,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS2bC: Vivid Portrayals - Indigo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS2bC: Vivid Portrayals - Indigo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS2bC Vivid Portrayals - Indigo Booster Box.png"
   },
   {
     "id": "pcw-009",
     "name": "CS3aC: Primordial Arts - Overgrow Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS3aC Primordial Arts - Overgrow Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-009.jpg",
     "imageAlt": "CS3aC Primordial Arts Overgrow Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -132,13 +140,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS3aC: Primordial Arts - Overgrow Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS3aC: Primordial Arts - Overgrow Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS3aC Primordial Arts - Overgrow Booster Box.png"
   },
   {
     "id": "pcw-010",
     "name": "CS3aC: Primordial Arts - Overgrow jumbo Booster Box（Sold as a 2-carton pair）",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS3aC Primordial Arts - Overgrow jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-010.jpg",
     "imageAlt": "CS3aC Primordial Arts Overgrow jumbo Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -147,13 +156,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS3aC: Primordial Arts - Overgrow jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS3aC: Primordial Arts - Overgrow jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS3aC Primordial Arts - Overgrow jumbo Booster Box.png"
   },
   {
     "id": "pcw-011",
     "name": "CS3bC: Primordial Arts - Torrent Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS3bC Primordial Arts - Torrent Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-011.jpg",
     "imageAlt": "CS3bC Primordial Arts Torrent Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -162,13 +172,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS3bC: Primordial Arts - Torrent Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS3bC: Primordial Arts - Torrent Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS3bC Primordial Arts - Torrent Booster Box.png"
   },
   {
     "id": "pcw-012",
     "name": "CS3bC: Primordial Arts - Torrent Jumbo Booster Box（Sold as a 2-carton pair）",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS3bC Primordial Arts - Torrent Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-012.jpg",
     "imageAlt": "CS3bC Primordial Arts Torrent Jumbo Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -177,13 +188,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS3bC: Primordial Arts - Torrent Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS3bC: Primordial Arts - Torrent Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS3bC Primordial Arts - Torrent Jumbo Booster Box.png"
   },
   {
     "id": "pcw-013",
     "name": "CS3.5C: Scorching Skies Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS3.5C Scorching Skies Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-013.jpg",
     "imageAlt": "CS3 5C Scorching Skies Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -192,13 +204,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS3.5C: Scorching Skies Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS3.5C: Scorching Skies Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS3.5C Scorching Skies Booster Box.png"
   },
   {
     "id": "pcw-014",
     "name": "CS4aC: Nine Colors Gathering - Friends Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS4aC Nine Colors Gathering - Friends Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-014.jpg",
     "imageAlt": "CS4aC Nine Colors Gathering Friends Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -207,13 +220,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS4aC: Nine Colors Gathering - Friends Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS4aC: Nine Colors Gathering - Friends Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS4aC Nine Colors Gathering - Friends Booster Box.png"
   },
   {
     "id": "pcw-015",
     "name": "CS4aC: Nine Colors Gathering - Friends jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS4aC Nine Colors Gathering - Friends jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-015.jpg",
     "imageAlt": "CS4aC Nine Colors Gathering Friends jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -222,13 +236,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS4aC: Nine Colors Gathering - Friends jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS4aC: Nine Colors Gathering - Friends jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS4aC Nine Colors Gathering - Friends jumbo Booster Box.png"
   },
   {
     "id": "pcw-016",
     "name": "CS4bC: Nine Colors Gathering - Origin Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS4bC Nine Colors Gathering - Origin Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-016.jpg",
     "imageAlt": "CS4bC Nine Colors Gathering Origin Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -237,13 +252,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS4bC: Nine Colors Gathering - Origin Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS4bC: Nine Colors Gathering - Origin Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS4bC Nine Colors Gathering - Origin Booster Box.png"
   },
   {
     "id": "pcw-017",
     "name": "CS4bC: Nine Colors Gathering - Origin jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS4bC Nine Colors Gathering - Origin jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-017.jpg",
     "imageAlt": "CS4bC Nine Colors Gathering Origin jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -252,13 +268,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS4bC: Nine Colors Gathering - Origin jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS4bC: Nine Colors Gathering - Origin jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS4bC Nine Colors Gathering - Origin jumbo Booster Box.png"
   },
   {
     "id": "pcw-018",
     "name": "CS4.5C: Final Flame Dance Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS4.5C Final Flame Dance Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-018.jpg",
     "imageAlt": "CS4 5C Final Flame Dance Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -267,13 +284,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS4.5C: Final Flame Dance Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS4.5C: Final Flame Dance Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS4.5C Final Flame Dance Booster Box.png"
   },
   {
     "id": "pcw-019",
     "name": "CS5aC: Brave Stars - Charm Jumbo Booster Box（Sold as a 2-carton pair）",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS5aC Brave Stars - Charm Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-019.jpg",
     "imageAlt": "CS5aC Brave Stars Charm Jumbo Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -282,13 +300,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS5aC: Brave Stars - Charm Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS5aC: Brave Stars - Charm Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS5aC Brave Stars - Charm Jumbo Booster Box.png"
   },
   {
     "id": "pcw-020",
     "name": "CS5bC: Brave Stars - Brave Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS5bC Brave Stars - Brave Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-020.jpg",
     "imageAlt": "CS5bC Brave Stars Brave Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -297,13 +316,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS5bC: Brave Stars - Brave Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS5bC: Brave Stars - Brave Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS5bC Brave Stars - Brave Booster Box.png"
   },
   {
     "id": "pcw-021",
     "name": "CS5bC: Brave Stars - Brave Jumbo Booster Box（Sold as a 2-carton pair）",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS5bC Brave Stars - Brave Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-021.jpg",
     "imageAlt": "CS5bC Brave Stars Brave Jumbo Booster Box Sold as a 2 carton pair wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -312,13 +332,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS5bC: Brave Stars - Brave Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS5bC: Brave Stars - Brave Jumbo Booster Box（Sold as a 2-carton pair） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS5bC Brave Stars - Brave Jumbo Booster Box.png"
   },
   {
     "id": "pcw-022",
     "name": "CS5.5C: Shadow of Glory Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS5.5C Shadow of Glory Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-022.jpg",
     "imageAlt": "CS5 5C Shadow of Glory Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -327,13 +348,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS5.5C: Shadow of Glory Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS5.5C: Shadow of Glory Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS5.5C Shadow of Glory Booster Box.png"
   },
   {
     "id": "pcw-023",
     "name": "CS6aC: Azure Shadow - Roar Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS6aC Azure Shadow - Roar Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-023.jpg",
     "imageAlt": "CS6aC Azure Shadow Roar Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -342,13 +364,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS6aC: Azure Shadow - Roar Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS6aC: Azure Shadow - Roar Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS6aC Azure Shadow - Roar Booster Box.png"
   },
   {
     "id": "pcw-024",
     "name": "CS6aC: Azure Shadow - Roar Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS6aC Azure Shadow - Roar Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-024.jpg",
     "imageAlt": "CS6aC Azure Shadow Roar Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -357,13 +380,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS6aC: Azure Shadow - Roar Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS6aC: Azure Shadow - Roar Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS6aC Azure Shadow - Roar Jumbo Booster Box.png"
   },
   {
     "id": "pcw-025",
     "name": "CS6bC: Azure Shadow - Pursuit Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS6bC Azure Shadow - Pursuit Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-025.jpg",
     "imageAlt": "CS6bC Azure Shadow Pursuit Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -372,13 +396,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS6bC: Azure Shadow - Pursuit Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS6bC: Azure Shadow - Pursuit Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS6bC Azure Shadow - Pursuit Booster Box.png"
   },
   {
     "id": "pcw-026",
     "name": "CS6bC: Azure Shadow - Pursuit Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CS6bC Azure Shadow - Pursuit Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-026.jpg",
     "imageAlt": "CS6bC Azure Shadow Pursuit Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -387,13 +412,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS6bC: Azure Shadow - Pursuit Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS6bC: Azure Shadow - Pursuit Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS6bC Azure Shadow - Pursuit Jumbo Booster Box.png"
   },
   {
     "id": "pcw-027",
     "name": "CS6.5C: Victory Star Guide Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CS6.5C Victory Star Guide Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-027.jpg",
     "imageAlt": "CS6 5C Victory Star Guide Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -402,13 +428,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CS6.5C: Victory Star Guide Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CS6.5C: Victory Star Guide Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CS6.5C Victory Star Guide Booster Box.png"
   },
   {
     "id": "pcw-028",
     "name": "CSV1C: Eternal Birth Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV1C Eternal Birth Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-028.jpg",
     "imageAlt": "CSV1C Eternal Birth Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -417,13 +444,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV1C: Eternal Birth Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV1C: Eternal Birth Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV1C Eternal Birth Booster Box.png"
   },
   {
     "id": "pcw-029",
     "name": "CSV1C: Eternal Birth Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV1C Eternal Birth Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-029.jpg",
     "imageAlt": "CSV1C Eternal Birth Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -432,13 +460,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV1C: Eternal Birth Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV1C: Eternal Birth Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV1C Eternal Birth Jumbo Booster Box.png"
   },
   {
     "id": "pcw-030",
     "name": "CSV2C: Miracle Journey Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV2C Miracle Journey Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-030.jpg",
     "imageAlt": "CSV2C Miracle Journey Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -447,13 +476,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV2C: Miracle Journey Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV2C: Miracle Journey Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV2C Miracle Journey Booster Box.png"
   },
   {
     "id": "pcw-031",
     "name": "CSV2C: Miracle Journey Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV2C Miracle Journey Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-031.jpg",
     "imageAlt": "CSV2C Miracle Journey Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -462,13 +492,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV2C: Miracle Journey Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV2C: Miracle Journey Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV2C Miracle Journey Jumbo Booster Box.png"
   },
   {
     "id": "pcw-032",
     "name": "CSV3C: Fearless Terastal Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV3C Fearless Terastal Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-032.jpg",
     "imageAlt": "CSV3C Fearless Terastal Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -477,13 +508,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV3C: Fearless Terastal Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV3C: Fearless Terastal Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV3C Fearless Terastal Booster Box.png"
   },
   {
     "id": "pcw-033",
     "name": "CSV4C: Bonus Round Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV4C Bonus Round Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-033.jpg",
     "imageAlt": "CSV4C Bonus Round Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -492,13 +524,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV4C: Bonus Round Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV4C: Bonus Round Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV4C Bonus Round Booster Box.png"
   },
   {
     "id": "pcw-034",
     "name": "CSV4C: Bonus Round Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV4C Bonus Round Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-034.jpg",
     "imageAlt": "CSV4C Bonus Round Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -507,13 +540,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV4C: Bonus Round Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV4C: Bonus Round Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV4C Bonus Round Jumbo Booster Box.png"
   },
   {
     "id": "pcw-035",
     "name": "CSV5C: Dark Crystal Blaze Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV5C Dark Crystal Blaze Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-035.jpg",
     "imageAlt": "CSV5C Dark Crystal Blaze Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -522,13 +556,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV5C: Dark Crystal Blaze Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV5C: Dark Crystal Blaze Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV5C Dark Crystal Blaze Booster Box.png"
   },
   {
     "id": "pcw-036",
     "name": "CSV5C: Dark Crystal Blaze Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV5C Dark Crystal Blaze Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-036.jpg",
     "imageAlt": "CSV5C Dark Crystal Blaze Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -537,13 +572,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV5C: Dark Crystal Blaze Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV5C: Dark Crystal Blaze Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV5C Dark Crystal Blaze Jumbo Booster Box.png"
   },
   {
     "id": "pcw-037",
     "name": "CSV6C: True Mystery Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV6C True Mystery Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-037.jpg",
     "imageAlt": "CSV6C True Mystery Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -552,13 +588,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV6C: True Mystery Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV6C: True Mystery Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV6C True Mystery Booster Box.png"
   },
   {
     "id": "pcw-038",
     "name": "CSV7C: Blade Awakening Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV7C Blade Awakening Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-038.jpg",
     "imageAlt": "CSV7C Blade Awakening Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -567,13 +604,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV7C: Blade Awakening Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV7C: Blade Awakening Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV7C Blade Awakening Booster Box.png"
   },
   {
     "id": "pcw-039",
     "name": "CSV7C: Blade Awakening Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV7C Blade Awakening Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-039.jpg",
     "imageAlt": "CSV7C Blade Awakening Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -582,13 +620,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV7C: Blade Awakening Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV7C: Blade Awakening Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV7C Blade Awakening Jumbo Booster Box.png"
   },
   {
     "id": "pcw-040",
     "name": "CSV8C: Brilliant Fantasy Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV8C Brilliant Fantasy Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-040.jpg",
     "imageAlt": "CSV8C Brilliant Fantasy Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -597,13 +636,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV8C: Brilliant Fantasy Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV8C: Brilliant Fantasy Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV8C Brilliant Fantasy Booster Box.png"
   },
   {
     "id": "pcw-041",
     "name": "CSV8C: Brilliant Fantasy Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV8C Brilliant Fantasy Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-041.jpg",
     "imageAlt": "CSV8C Brilliant Fantasy Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -612,13 +652,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV8C: Brilliant Fantasy Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV8C: Brilliant Fantasy Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV8C Brilliant Fantasy Jumbo Booster Box.png"
   },
   {
     "id": "pcw-042",
     "name": "CSV9C: Stellar Crystal Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV9C Stellar Crystal Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-042.jpg",
     "imageAlt": "CSV9C Stellar Crystal Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -627,13 +668,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9C: Stellar Crystal Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9C: Stellar Crystal Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9C Stellar Crystal Booster Box.png"
   },
   {
     "id": "pcw-043",
     "name": "CSV9C: Stellar Crystal Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV9C Stellar Crystal Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-043.jpg",
     "imageAlt": "CSV9C Stellar Crystal Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -642,13 +684,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9C: Stellar Crystal Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9C: Stellar Crystal Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9C Stellar Crystal Jumbo Booster Box.png"
   },
   {
     "id": "pcw-044",
     "name": "CSV9.5C: Terastal Gathering Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-044.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -657,13 +700,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Booster Box.png"
   },
   {
     "id": "pcw-045",
     "name": "CBB1C: Gem Pack Vol. 1 Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB1C Gem Pack Vol. 1 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-045.jpg",
     "imageAlt": "CBB1C Gem Pack Vol 1 Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -672,13 +716,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB1C: Gem Pack Vol. 1 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB1C: Gem Pack Vol. 1 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB1C Gem Pack Vol. 1 Booster Box.png"
   },
   {
     "id": "pcw-046",
     "name": "CBB2C: Gem Pack Vol. 2 Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB2C Gem Pack Vol. 2 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-046.jpg",
     "imageAlt": "CBB2C Gem Pack Vol 2 Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -687,13 +732,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB2C: Gem Pack Vol. 2 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB2C: Gem Pack Vol. 2 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB2C Gem Pack Vol. 2 Booster Box.png"
   },
   {
     "id": "pcw-047",
     "name": "CBB3C: Gem Pack Vol. 3 Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB3C Gem Pack Vol. 3 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-047.jpg",
     "imageAlt": "CBB3C Gem Pack Vol 3 Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -702,13 +748,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB3C: Gem Pack Vol. 3 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB3C: Gem Pack Vol. 3 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB3C Gem Pack Vol. 3 Booster Box.png"
   },
   {
     "id": "pcw-048",
     "name": "CBB4C: Gem Pack Vol. 4 Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB4C Gem Pack Vol. 4 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-048.jpg",
     "imageAlt": "CBB4C Gem Pack Vol 4 Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -717,13 +764,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB4C: Gem Pack Vol. 4 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB4C: Gem Pack Vol. 4 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB4C Gem Pack Vol. 4 Booster Box.png"
   },
   {
     "id": "pcw-049",
     "name": "CBB5C: Gem Pack Vol. 5 Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB5C Gem Pack Vol. 5 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-049.jpg",
     "imageAlt": "CBB5C Gem Pack Vol 5 Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -732,13 +780,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB5C: Gem Pack Vol. 5 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB5C: Gem Pack Vol. 5 Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB5C Gem Pack Vol. 5 Booster Box.png"
   },
   {
     "id": "pcw-050",
     "name": "CBB5C: Gem Pack Vol. 5 Booster Box（40 boxes）",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CBB5C Gem Pack Vol. 5 Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-050.jpg",
     "imageAlt": "CBB5C Gem Pack Vol 5 Booster Box 40 boxes wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -747,13 +796,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CBB5C: Gem Pack Vol. 5 Booster Box（40 boxes） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CBB5C: Gem Pack Vol. 5 Booster Box（40 boxes） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CBB5C Gem Pack Vol. 5 Booster Box.png"
   },
   {
     "id": "pcw-051",
     "name": "151C: Collect 151 Hope jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/151C Collect 151 Hope jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-051.jpg",
     "imageAlt": "151C Collect 151 Hope jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -762,13 +812,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Hope jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Hope jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Hope jumbo Booster Box.png"
   },
   {
     "id": "pcw-052",
     "name": "151C: Collect 151 Surprises jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/151C Collect 151 Surprises jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-052.jpg",
     "imageAlt": "151C Collect 151 Surprises jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -777,13 +828,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Surprises jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Surprises jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Surprises jumbo Booster Box.png"
   },
   {
     "id": "pcw-053",
     "name": "151C: Collect 151 Gathering Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/151C Collect 151 Gathering Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-053.jpg",
     "imageAlt": "151C Collect 151 Gathering Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -792,13 +844,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Gathering Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Gathering Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Gathering Booster Box.png"
   },
   {
     "id": "pcw-054",
     "name": "CSV10C: Chasing Glory Together Booster Box",
     "category": "Booster Box",
-    "imageUrl": "assets/images/CSV10C Chasing Glory Together Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-054.jpg",
     "imageAlt": "CSV10C Chasing Glory Together Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -807,13 +860,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV10C: Chasing Glory Together Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV10C: Chasing Glory Together Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV10C Chasing Glory Together Booster Box.png"
   },
   {
     "id": "pcw-055",
     "name": "CSV10C: Chasing Glory Together Jumbo Booster Box",
     "category": "Jumbo Booster Box",
-    "imageUrl": "assets/images/CSV10C Chasing Glory Together Jumbo Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-055.jpg",
     "imageAlt": "CSV10C Chasing Glory Together Jumbo Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -822,13 +876,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Jumbo booster configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV10C: Chasing Glory Together Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV10C: Chasing Glory Together Jumbo Booster Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV10C Chasing Glory Together Jumbo Booster Box.png"
   },
   {
     "id": "pcw-056",
     "name": "Pokémon TCG Golden Energy Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Pokémon TCG Golden Energy Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-056.jpg",
     "imageAlt": "Pok mon TCG Golden Energy Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -837,13 +892,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Pokémon TCG Golden Energy Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Pokémon TCG Golden Energy Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Pokémon TCG Golden Energy Gift Box.png"
   },
   {
     "id": "pcw-057",
     "name": "Golden Energy Advanced Gift Box - Tapu Koko",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Koko.png",
+    "imageUrl": "assets/images-web/pcw-057.jpg",
     "imageAlt": "Golden Energy Advanced Gift Box Tapu Koko wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -852,13 +908,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Golden Energy Advanced Gift Box - Tapu Koko is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Golden Energy Advanced Gift Box - Tapu Koko is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Koko.png"
   },
   {
     "id": "pcw-058",
     "name": "Golden Energy Advanced Gift Box - Tapu Lele",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Lele.png",
+    "imageUrl": "assets/images-web/pcw-058.jpg",
     "imageAlt": "Golden Energy Advanced Gift Box Tapu Lele wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -867,13 +924,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Golden Energy Advanced Gift Box - Tapu Lele is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Golden Energy Advanced Gift Box - Tapu Lele is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Lele.png"
   },
   {
     "id": "pcw-059",
     "name": "Golden Energy Advanced Gift Box - Tapu Bulu",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Bulu.png",
+    "imageUrl": "assets/images-web/pcw-059.jpg",
     "imageAlt": "Golden Energy Advanced Gift Box Tapu Bulu wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -882,13 +940,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Golden Energy Advanced Gift Box - Tapu Bulu is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Golden Energy Advanced Gift Box - Tapu Bulu is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Bulu.png"
   },
   {
     "id": "pcw-060",
     "name": "Golden Energy Advanced Gift Box - Tapu Fini",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Fini.png",
+    "imageUrl": "assets/images-web/pcw-060.jpg",
     "imageAlt": "Golden Energy Advanced Gift Box Tapu Fini wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -897,13 +956,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Golden Energy Advanced Gift Box - Tapu Fini is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Golden Energy Advanced Gift Box - Tapu Fini is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Golden Energy Advanced Gift Box - Tapu Fini.png"
   },
   {
     "id": "pcw-061",
     "name": "Pokémon Card Display Set Gift Box Eevee",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Pokémon Card Display Set Gift Box Eevee.png",
+    "imageUrl": "assets/images-web/pcw-061.jpg",
     "imageAlt": "Pok mon Card Display Set Gift Box Eevee wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -912,13 +972,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Pokémon Card Display Set Gift Box Eevee is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Pokémon Card Display Set Gift Box Eevee is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Pokémon Card Display Set Gift Box Eevee.png"
   },
   {
     "id": "pcw-062",
     "name": "Radiant energy gift box zacian",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant energy gift box zacian.png",
+    "imageUrl": "assets/images-web/pcw-062.jpg",
     "imageAlt": "Radiant energy gift box zacian wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -927,13 +988,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant energy gift box zacian is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant energy gift box zacian is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant energy gift box zacian.png"
   },
   {
     "id": "pcw-063",
     "name": "Radiant energy gift box zamazenta",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant energy gift box zamazenta.png",
+    "imageUrl": "assets/images-web/pcw-063.jpg",
     "imageAlt": "Radiant energy gift box zamazenta wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -942,13 +1004,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant energy gift box zamazenta is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant energy gift box zamazenta is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant energy gift box zamazenta.png"
   },
   {
     "id": "pcw-064",
     "name": "Radiant energy gift box eternatus",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant energy gift box eternatus.png",
+    "imageUrl": "assets/images-web/pcw-064.jpg",
     "imageAlt": "Radiant energy gift box eternatus wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -957,13 +1020,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant energy gift box eternatus is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant energy gift box eternatus is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant energy gift box eternatus.png"
   },
   {
     "id": "pcw-065",
     "name": "Pokémon Card Display Set Gift Box Charizard",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/pokémon card display set gift box charizard.png",
+    "imageUrl": "assets/images-web/pcw-065.jpg",
     "imageAlt": "Pok mon Card Display Set Gift Box Charizard wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -972,13 +1036,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Pokémon Card Display Set Gift Box Charizard is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Pokémon Card Display Set Gift Box Charizard is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/pokémon card display set gift box charizard.png"
   },
   {
     "id": "pcw-066",
     "name": "Pokémon Card Display Set Gift Box Gengar",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Pokémon Card Display Set Gift Box Gengar.png",
+    "imageUrl": "assets/images-web/pcw-066.jpg",
     "imageAlt": "Pok mon Card Display Set Gift Box Gengar wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -987,13 +1052,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Pokémon Card Display Set Gift Box Gengar is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Pokémon Card Display Set Gift Box Gengar is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Pokémon Card Display Set Gift Box Gengar.png"
   },
   {
     "id": "pcw-067",
     "name": "Radiant Energy Gift Box Grass",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant Energy Gift Box Grass.png",
+    "imageUrl": "assets/images-web/pcw-067.jpg",
     "imageAlt": "Radiant Energy Gift Box Grass wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1002,13 +1068,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant Energy Gift Box Grass is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant Energy Gift Box Grass is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant Energy Gift Box Grass.png"
   },
   {
     "id": "pcw-068",
     "name": "Radiant Energy Gift Box Lightning",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant Energy Gift Box Lightning.png",
+    "imageUrl": "assets/images-web/pcw-068.jpg",
     "imageAlt": "Radiant Energy Gift Box Lightning wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1017,13 +1084,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant Energy Gift Box Lightning is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant Energy Gift Box Lightning is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant Energy Gift Box Lightning.png"
   },
   {
     "id": "pcw-069",
     "name": "Radiant Energy Gift Box Metal",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Radiant Energy Gift Box Metal.png",
+    "imageUrl": "assets/images-web/pcw-069.jpg",
     "imageAlt": "Radiant Energy Gift Box Metal wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1032,13 +1100,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Radiant Energy Gift Box Metal is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Radiant Energy Gift Box Metal is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Radiant Energy Gift Box Metal.png"
   },
   {
     "id": "pcw-070",
     "name": "Pikachu & Eevee Quicksand Card Display Pendant Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Pikachu & Eevee Quicksand Card Display Pendant Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-070.jpg",
     "imageAlt": "Pikachu Eevee Quicksand Card Display Pendant Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1047,13 +1116,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Pikachu & Eevee Quicksand Card Display Pendant Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Pikachu & Eevee Quicksand Card Display Pendant Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Pikachu & Eevee Quicksand Card Display Pendant Gift Box.png"
   },
   {
     "id": "pcw-071",
     "name": "Collect 151 Pokémon Card Holder Set",
     "category": "Accessories",
-    "imageUrl": "assets/images/Collect 151 Pokémon Card Holder Set.png",
+    "imageUrl": "assets/images-web/pcw-071.jpg",
     "imageAlt": "Collect 151 Pok mon Card Holder Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1062,13 +1132,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Collect 151 Pokémon Card Holder Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Collect 151 Pokémon Card Holder Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Collect 151 Pokémon Card Holder Set.png"
   },
   {
     "id": "pcw-072",
     "name": "151C: Collect 151 Hope Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/151C Collect 151 Hope Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-072.jpg",
     "imageAlt": "151C Collect 151 Hope Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1077,13 +1148,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Hope Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Hope Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Hope Coin Set.png"
   },
   {
     "id": "pcw-073",
     "name": "2025 Dragon Boat Festival Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/2025 Dragon Boat Festival Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-073.jpg",
     "imageAlt": "2025 Dragon Boat Festival Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1092,13 +1164,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "2025 Dragon Boat Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "2025 Dragon Boat Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/2025 Dragon Boat Festival Gift Box.png"
   },
   {
     "id": "pcw-074",
     "name": "Scarlet & Violet Chinese Tin Collection Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Scarlet & Violet Chinese Tin Collection Box.png",
+    "imageUrl": "assets/images-web/pcw-074.jpg",
     "imageAlt": "Scarlet Violet Chinese Tin Collection Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1107,13 +1180,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Scarlet & Violet Chinese Tin Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Scarlet & Violet Chinese Tin Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Scarlet & Violet Chinese Tin Collection Box.png"
   },
   {
     "id": "pcw-075",
     "name": "Scarlet & Violet Chinese Sleeve Collection Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Scarlet & Violet Chinese Sleeve Collection Box.png",
+    "imageUrl": "assets/images-web/pcw-075.jpg",
     "imageAlt": "Scarlet Violet Chinese Sleeve Collection Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1122,13 +1196,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Scarlet & Violet Chinese Sleeve Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Scarlet & Violet Chinese Sleeve Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Scarlet & Violet Chinese Sleeve Collection Box.png"
   },
   {
     "id": "pcw-076",
     "name": "Adventure Collection Gift Box: Venusaur",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Adventure Collection Gift Box Venusaur.png",
+    "imageUrl": "assets/images-web/pcw-076.jpg",
     "imageAlt": "Adventure Collection Gift Box Venusaur wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1137,13 +1212,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Adventure Collection Gift Box: Venusaur is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Adventure Collection Gift Box: Venusaur is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Adventure Collection Gift Box Venusaur.png"
   },
   {
     "id": "pcw-077",
     "name": "Adventure Collection Gift Box: Charizard",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Adventure Collection Gift Box Charizard.png",
+    "imageUrl": "assets/images-web/pcw-077.jpg",
     "imageAlt": "Adventure Collection Gift Box Charizard wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1152,13 +1228,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Adventure Collection Gift Box: Charizard is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Adventure Collection Gift Box: Charizard is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Adventure Collection Gift Box Charizard.png"
   },
   {
     "id": "pcw-078",
     "name": "Adventure Collection Gift Box: Blastoise",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Adventure Collection Gift Box Blastoise.png",
+    "imageUrl": "assets/images-web/pcw-078.jpg",
     "imageAlt": "Adventure Collection Gift Box Blastoise wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1167,13 +1244,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Adventure Collection Gift Box: Blastoise is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Adventure Collection Gift Box: Blastoise is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Adventure Collection Gift Box Blastoise.png"
   },
   {
     "id": "pcw-079",
     "name": "Adventure Collection Gift Box: Gardevoir",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Adventure Collection Gift Box Gardevoir.png",
+    "imageUrl": "assets/images-web/pcw-079.jpg",
     "imageAlt": "Adventure Collection Gift Box Gardevoir wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1182,13 +1260,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Adventure Collection Gift Box: Gardevoir is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Adventure Collection Gift Box: Gardevoir is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Adventure Collection Gift Box Gardevoir.png"
   },
   {
     "id": "pcw-080",
     "name": "Illustration Rare Metal Deck Box Set",
     "category": "Accessories",
-    "imageUrl": "assets/images/Illustration Rare Metal Deck Box Set.png",
+    "imageUrl": "assets/images-web/pcw-080.jpg",
     "imageAlt": "Illustration Rare Metal Deck Box Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1197,13 +1276,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Illustration Rare Metal Deck Box Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Illustration Rare Metal Deck Box Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Illustration Rare Metal Deck Box Set.png"
   },
   {
     "id": "pcw-081",
     "name": "151C: Collect 151 Surprises Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/151C Collect 151 Surprises Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-081.jpg",
     "imageAlt": "151C Collect 151 Surprises Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1212,13 +1292,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Surprises Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Surprises Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Surprises Coin Set.png"
   },
   {
     "id": "pcw-082",
     "name": "151C: Collect 151 The First Partner Display Set Bulbasaur",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/151C Collect 151 The First Partner Display Set Bulbasaur.png",
+    "imageUrl": "assets/images-web/pcw-082.jpg",
     "imageAlt": "151C Collect 151 The First Partner Display Set Bulbasaur wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1227,13 +1308,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 The First Partner Display Set Bulbasaur is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 The First Partner Display Set Bulbasaur is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 The First Partner Display Set Bulbasaur.png"
   },
   {
     "id": "pcw-083",
     "name": "151C: Collect 151 The First Partner Display Set Charmander-loose box",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/151C Collect 151 The First Partner Display Set Charmander-loose box.png",
+    "imageUrl": "assets/images-web/pcw-083.jpg",
     "imageAlt": "151C Collect 151 The First Partner Display Set Charmander loose box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1242,13 +1324,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Loose box availability",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 The First Partner Display Set Charmander-loose box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 The First Partner Display Set Charmander-loose box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 The First Partner Display Set Charmander-loose box.png"
   },
   {
     "id": "pcw-084",
     "name": "151C: Collect 151 The First Partner Display Set Squirtle",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/151C Collect 151 The First Partner Display Set Squirtle.png",
+    "imageUrl": "assets/images-web/pcw-084.jpg",
     "imageAlt": "151C Collect 151 The First Partner Display Set Squirtle wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1257,13 +1340,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 The First Partner Display Set Squirtle is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 The First Partner Display Set Squirtle is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 The First Partner Display Set Squirtle.png"
   },
   {
     "id": "pcw-085",
     "name": "2025 Mid-Autumn Festival Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/2025 Mid-Autumn Festival Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-085.jpg",
     "imageAlt": "2025 Mid Autumn Festival Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1272,13 +1356,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "2025 Mid-Autumn Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "2025 Mid-Autumn Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/2025 Mid-Autumn Festival Gift Box.png"
   },
   {
     "id": "pcw-086",
     "name": "Collect 151: First Partner Premium Gift Box Squirtle(Sold as a 3-carton set)",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Squirtle.png",
+    "imageUrl": "assets/images-web/pcw-086.jpg",
     "imageAlt": "Collect 151 First Partner Premium Gift Box Squirtle Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1287,13 +1372,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Collect 151: First Partner Premium Gift Box Squirtle(Sold as a 3-carton set) is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Collect 151: First Partner Premium Gift Box Squirtle(Sold as a 3-carton set) is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Squirtle.png"
   },
   {
     "id": "pcw-087",
     "name": "Collect 151: First Partner Premium Gift Box Charmander(Sold as a 3-carton set)",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Charmander(Sold as a 3-carton set).png",
+    "imageUrl": "assets/images-web/pcw-087.jpg",
     "imageAlt": "Collect 151 First Partner Premium Gift Box Charmander Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1302,13 +1388,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Collect 151: First Partner Premium Gift Box Charmander(Sold as a 3-carton set) is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Collect 151: First Partner Premium Gift Box Charmander(Sold as a 3-carton set) is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Charmander(Sold as a 3-carton set).png"
   },
   {
     "id": "pcw-088",
     "name": "Collect 151: First Partner Premium Gift Box Bulbasaur(Sold as a 3-carton set）",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Bulbasaur(Sold as a 3-carton set）.png",
+    "imageUrl": "assets/images-web/pcw-088.jpg",
     "imageAlt": "Collect 151 First Partner Premium Gift Box Bulbasaur Sold as a 3 carton set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1317,13 +1404,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Multi-carton wholesale set",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Collect 151: First Partner Premium Gift Box Bulbasaur(Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Collect 151: First Partner Premium Gift Box Bulbasaur(Sold as a 3-carton set） is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Collect 151 First Partner Premium Gift Box Bulbasaur(Sold as a 3-carton set）.png"
   },
   {
     "id": "pcw-089",
     "name": "151C: Collect 151 Gathering Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/151C Collect 151 Gathering Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-089.jpg",
     "imageAlt": "151C Collect 151 Gathering Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1332,13 +1420,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "151C: Collect 151 Gathering Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "151C: Collect 151 Gathering Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/151C Collect 151 Gathering Coin Set.png"
   },
   {
     "id": "pcw-090",
     "name": "Collect 151 Jigsaw Magnet Set",
     "category": "Collectibles",
-    "imageUrl": "assets/images/Collect 151 Jigsaw Magnet Set.png",
+    "imageUrl": "assets/images-web/pcw-090.jpg",
     "imageAlt": "Collect 151 Jigsaw Magnet Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1347,13 +1436,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Collect 151 Jigsaw Magnet Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Collect 151 Jigsaw Magnet Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Collect 151 Jigsaw Magnet Set.png"
   },
   {
     "id": "pcw-091",
     "name": "CSVL2C: Travel Collection Damage Counter Case Peripheral Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSVL2C Travel Collection Damage Counter Case Peripheral Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-091.jpg",
     "imageAlt": "CSVL2C Travel Collection Damage Counter Case Peripheral Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1362,13 +1452,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSVL2C: Travel Collection Damage Counter Case Peripheral Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSVL2C: Travel Collection Damage Counter Case Peripheral Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSVL2C Travel Collection Damage Counter Case Peripheral Gift Box.png"
   },
   {
     "id": "pcw-092",
     "name": "CSVL2C: Greninja Travel Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSVL2C Greninja Travel Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-092.jpg",
     "imageAlt": "CSVL2C Greninja Travel Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1377,13 +1468,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSVL2C: Greninja Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSVL2C: Greninja Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSVL2C Greninja Travel Gift Box.png"
   },
   {
     "id": "pcw-093",
     "name": "CSVL2C: Iron Hands Travel Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSVL2C Iron Hands Travel Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-093.jpg",
     "imageAlt": "CSVL2C Iron Hands Travel Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1392,13 +1484,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSVL2C: Iron Hands Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSVL2C: Iron Hands Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSVL2C Iron Hands Travel Gift Box.png"
   },
   {
     "id": "pcw-094",
     "name": "CSVL2C: Mew Travel Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSVL2C Mew Travel Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-094.jpg",
     "imageAlt": "CSVL2C Mew Travel Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1407,13 +1500,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSVL2C: Mew Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSVL2C: Mew Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSVL2C Mew Travel Gift Box.png"
   },
   {
     "id": "pcw-095",
     "name": "CSVL2C: Charizard Travel Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSVL2C Charizard Travel Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-095.jpg",
     "imageAlt": "CSVL2C Charizard Travel Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1422,13 +1516,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSVL2C: Charizard Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSVL2C: Charizard Travel Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSVL2C Charizard Travel Gift Box.png"
   },
   {
     "id": "pcw-096",
     "name": "3rd Simplified Chinese Anniversary Travel Journey Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/3rd Simplified Chinese Anniversary Travel Journey Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-096.jpg",
     "imageAlt": "3rd Simplified Chinese Anniversary Travel Journey Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1437,13 +1532,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "3rd Simplified Chinese Anniversary Travel Journey Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "3rd Simplified Chinese Anniversary Travel Journey Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/3rd Simplified Chinese Anniversary Travel Journey Gift Box.png"
   },
   {
     "id": "pcw-097",
     "name": "Dream Painting Collection 151 Figure Set",
     "category": "Collectibles",
-    "imageUrl": "assets/images/Dream Painting Collection 151 Figure Set.png",
+    "imageUrl": "assets/images-web/pcw-097.jpg",
     "imageAlt": "Dream Painting Collection 151 Figure Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1452,13 +1548,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Dream Painting Collection 151 Figure Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Dream Painting Collection 151 Figure Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Dream Painting Collection 151 Figure Set.png"
   },
   {
     "id": "pcw-098",
     "name": "Electric Plush Display Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/Electric Plush Display Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-098.jpg",
     "imageAlt": "Electric Plush Display Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1467,13 +1564,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Electric Plush Display Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Electric Plush Display Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Electric Plush Display Gift Box.png"
   },
   {
     "id": "pcw-099",
     "name": "CSV7C: Blade Awakening Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/CSV7C Blade Awakening Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-099.jpg",
     "imageAlt": "CSV7C Blade Awakening Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1482,13 +1580,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV7C: Blade Awakening Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV7C: Blade Awakening Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV7C Blade Awakening Coin Set.png"
   },
   {
     "id": "pcw-100",
     "name": "2026 Pokémon Lunar New Year Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/2026 Pokémon Lunar New Year Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-100.jpg",
     "imageAlt": "2026 Pok mon Lunar New Year Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1497,13 +1596,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "2026 Pokémon Lunar New Year Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "2026 Pokémon Lunar New Year Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/2026 Pokémon Lunar New Year Gift Box.png"
   },
   {
     "id": "pcw-101",
     "name": "Gem Pack Badge Set",
     "category": "Collectibles",
-    "imageUrl": "assets/images/Gem Pack Badge Set.png",
+    "imageUrl": "assets/images-web/pcw-101.jpg",
     "imageAlt": "Gem Pack Badge Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1512,13 +1612,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Gem Pack Badge Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Gem Pack Badge Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Gem Pack Badge Set.png"
   },
   {
     "id": "pcw-102",
     "name": "CSV8C: Brilliant Fantasy Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/CSV8C Brilliant Fantasy Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-102.jpg",
     "imageAlt": "CSV8C Brilliant Fantasy Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1527,13 +1628,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV8C: Brilliant Fantasy Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV8C: Brilliant Fantasy Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV8C Brilliant Fantasy Coin Set.png"
   },
   {
     "id": "pcw-103",
     "name": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.1",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1.png",
+    "imageUrl": "assets/images-web/pcw-103.jpg",
     "imageAlt": "30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol 1 wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1542,13 +1644,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.1 is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.1 is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.1.png"
   },
   {
     "id": "pcw-104",
     "name": "Dream Painting Collection Water Figure Set",
     "category": "Collectibles",
-    "imageUrl": "assets/images/Dream Painting Collection Water Figure Set.png",
+    "imageUrl": "assets/images-web/pcw-104.jpg",
     "imageAlt": "Dream Painting Collection Water Figure Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1557,13 +1660,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Dream Painting Collection Water Figure Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Dream Painting Collection Water Figure Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Dream Painting Collection Water Figure Set.png"
   },
   {
     "id": "pcw-105",
     "name": "2026 Dragon Boat Festival Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/2026 Dragon Boat Festival Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-105.jpg",
     "imageAlt": "2026 Dragon Boat Festival Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1572,13 +1676,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "2026 Dragon Boat Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "2026 Dragon Boat Festival Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/2026 Dragon Boat Festival Gift Box.png"
   },
   {
     "id": "pcw-106",
     "name": "CSV9C: Stellar Crystal Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/CSV9C Stellar Crystal Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-106.jpg",
     "imageAlt": "CSV9C Stellar Crystal Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1587,13 +1692,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9C: Stellar Crystal Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9C: Stellar Crystal Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9C Stellar Crystal Coin Set.png"
   },
   {
     "id": "pcw-107",
     "name": "CSV9.5C: Terastal Gathering Tin Collection Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Tin Collection Box.png",
+    "imageUrl": "assets/images-web/pcw-107.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Tin Collection Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1602,13 +1708,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Tin Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Tin Collection Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Tin Collection Box.png"
   },
   {
     "id": "pcw-108",
     "name": "CSV9.5C: Terastal Gathering Quicksand Card Display Pendant Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Quicksand Card Display Pendant Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-108.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Quicksand Card Display Pendant Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1617,13 +1724,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Quicksand Card Display Pendant Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Quicksand Card Display Pendant Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Quicksand Card Display Pendant Gift Box.png"
   },
   {
     "id": "pcw-109",
     "name": "CSV9.5C: Terastal Gathering Eevee & Friends Gift Box One box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Eevee & Friends Gift Box One box.png",
+    "imageUrl": "assets/images-web/pcw-109.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Eevee Friends Gift Box One box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1632,13 +1740,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Eevee & Friends Gift Box One box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Eevee & Friends Gift Box One box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Eevee & Friends Gift Box One box.png"
   },
   {
     "id": "pcw-110",
     "name": "CSV9.5C: Terastal Gathering Badge Box",
     "category": "Collectibles",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Badge Box.png",
+    "imageUrl": "assets/images-web/pcw-110.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Badge Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1647,13 +1756,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Badge Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Badge Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Badge Box.png"
   },
   {
     "id": "pcw-111",
     "name": "CSV9.5C: Terastal Gathering Coin Set l box",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Coin Set l box.png",
+    "imageUrl": "assets/images-web/pcw-111.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Coin Set l box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1662,13 +1772,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Coin Set l box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Coin Set l box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Coin Set l box.png"
   },
   {
     "id": "pcw-112",
     "name": "CSV9.5C: Terastal Gathering Gift Box",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/CSV9.5C Terastal Gathering Gift Box.png",
+    "imageUrl": "assets/images-web/pcw-112.jpg",
     "imageAlt": "CSV9 5C Terastal Gathering Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1677,13 +1788,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV9.5C: Terastal Gathering Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV9.5C: Terastal Gathering Gift Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV9.5C Terastal Gathering Gift Box.png"
   },
   {
     "id": "pcw-113",
     "name": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.2.png",
+    "imageUrl": "assets/images-web/pcw-113.jpg",
     "imageAlt": "30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol 2 wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1692,13 +1804,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2 is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2 is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/30th Anniversary Celebration Simplified Chinese Original Partner Card Set Vol.2.png"
   },
   {
     "id": "pcw-114",
     "name": "Sleeping Eeveelutions- Holly Box",
     "category": "Chinese Pokemon Products",
-    "imageUrl": "assets/images/Sleeping Eeveelutions- Holly Box.png",
+    "imageUrl": "assets/images-web/pcw-114.jpg",
     "imageAlt": "Sleeping Eeveelutions Holly Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1707,13 +1820,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Sleeping Eeveelutions- Holly Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "Sleeping Eeveelutions- Holly Box is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Sleeping Eeveelutions- Holly Box.png"
   },
   {
     "id": "pcw-115",
     "name": "CSV10C: Chasing Glory Together Coin Set",
     "category": "Coin Sets",
-    "imageUrl": "assets/images/CSV10C Chasing Glory Together Coin Set.png",
+    "imageUrl": "assets/images-web/pcw-115.jpg",
     "imageAlt": "CSV10C Chasing Glory Together Coin Set wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1722,7 +1836,8 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "CSV10C: Chasing Glory Together Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "CSV10C: Chasing Glory Together Coin Set is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/CSV10C Chasing Glory Together Coin Set.png"
   },
   {
     "id": "pcw-116",
@@ -1743,7 +1858,7 @@ window.POKECHINA_PRODUCTS = [
     "id": "pcw-117",
     "name": "PTCGBox N\nS&VBattleCollection",
     "category": "Gift Boxes",
-    "imageUrl": "assets/images/PTCGBox N S&VBattleCollection.png",
+    "imageUrl": "assets/images-web/pcw-117.jpg",
     "imageAlt": "PTCGBox N S VBattleCollection wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1752,13 +1867,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "PTCGBox N\nS&VBattleCollection is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "PTCGBox N\nS&VBattleCollection is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/PTCGBox N S&VBattleCollection.png"
   },
   {
     "id": "pcw-118",
     "name": "The Glory of Team Rocket Attaché Case",
     "category": "Accessories",
-    "imageUrl": "assets/images/The Glory of Team Rocket Attaché Case.png",
+    "imageUrl": "assets/images-web/pcw-118.jpg",
     "imageAlt": "The Glory of Team Rocket Attach Case wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1767,13 +1883,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "The Glory of Team Rocket Attaché Case is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers."
+    "description": "The Glory of Team Rocket Attaché Case is part of the Chinese-language Pokemon TCG wholesale catalog available through PokeChina Wholesale. Designed for card shops, online sellers, distributors, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/The Glory of Team Rocket Attaché Case.png"
   },
   {
     "id": "pcw-119",
     "name": "One Piece Card Game Romance Dawn OPC01",
     "category": "One Piece TCG",
-    "imageUrl": "assets/images/One Piece Card Game Romance Dawn OPC01.png",
+    "imageUrl": "assets/images-web/pcw-119.jpg",
     "imageAlt": "One Piece Card Game Romance Dawn OPC01 wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1782,13 +1899,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "One Piece Card Game Romance Dawn OPC01 is part of the current TCG wholesale catalog available through PokeChina Wholesale. Availability, allocation, and shipping are confirmed before payment."
+    "description": "One Piece Card Game Romance Dawn OPC01 is part of the current TCG wholesale catalog available through PokeChina Wholesale. Availability, allocation, and shipping are confirmed before payment.",
+    "originalImageUrl": "assets/images/One Piece Card Game Romance Dawn OPC01.png"
   },
   {
     "id": "pcw-120",
     "name": "Riftbound: League of Legends TCG - Origins-Slim Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG - Origins-Slim Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-120.jpg",
     "imageAlt": "Riftbound League of Legends TCG Origins Slim Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1797,13 +1915,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG - Origins-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG - Origins-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG - Origins-Slim Booster Box.png"
   },
   {
     "id": "pcw-121",
     "name": "Riftbound: League of Legends TCG - Origins-Thick Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG - Origins-Thick Booster Box .png",
+    "imageUrl": "assets/images-web/pcw-121.jpg",
     "imageAlt": "Riftbound League of Legends TCG Origins Thick Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1812,13 +1931,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG - Origins-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG - Origins-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG - Origins-Thick Booster Box .png"
   },
   {
     "id": "pcw-122",
     "name": "Riftbound: League of Legends TCG Chinese-Spiritforged-Slim Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG Chinese-Spiritforged-Slim Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-122.jpg",
     "imageAlt": "Riftbound League of Legends TCG Chinese Spiritforged Slim Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1827,13 +1947,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG Chinese-Spiritforged-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG Chinese-Spiritforged-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG Chinese-Spiritforged-Slim Booster Box.png"
   },
   {
     "id": "pcw-123",
     "name": "Riftbound: League of Legends TCG Chinese-Spiritforged-Thick Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG Chinese-Spiritforged-Thick Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-123.jpg",
     "imageAlt": "Riftbound League of Legends TCG Chinese Spiritforged Thick Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1842,13 +1963,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG Chinese-Spiritforged-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG Chinese-Spiritforged-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG Chinese-Spiritforged-Thick Booster Box.png"
   },
   {
     "id": "pcw-124",
     "name": "Riftbound: League of Legends TCG - unleashed-Slim Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG - unleashed-Slim Booster Box.png",
+    "imageUrl": "assets/images-web/pcw-124.jpg",
     "imageAlt": "Riftbound League of Legends TCG unleashed Slim Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1857,13 +1979,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG - unleashed-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG - unleashed-Slim Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG - unleashed-Slim Booster Box.png"
   },
   {
     "id": "pcw-125",
     "name": "Riftbound: League of Legends TCG - unleashed-Thick Booster Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG - unleashed-Thick Booster Box chinese.png",
+    "imageUrl": "assets/images-web/pcw-125.jpg",
     "imageAlt": "Riftbound League of Legends TCG unleashed Thick Booster Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1872,13 +1995,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed booster box case configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG - unleashed-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG - unleashed-Thick Booster Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG - unleashed-Thick Booster Box chinese.png"
   },
   {
     "id": "pcw-126",
     "name": "2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged.png",
+    "imageUrl": "assets/images-web/pcw-126.jpg",
     "imageAlt": "2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1887,13 +2011,14 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/2026 Lunar New Year Irelia Theme Gift Box Riftbound Spiritforged.png"
   },
   {
     "id": "pcw-127",
     "name": "Riftbound: League of Legends TCG - Secret Garden Gift Box",
     "category": "Riftbound TCG",
-    "imageUrl": "assets/images/Riftbound League of Legends TCG - Secret Garden Gift Box chinese.png",
+    "imageUrl": "assets/images-web/pcw-127.jpg",
     "imageAlt": "Riftbound League of Legends TCG Secret Garden Gift Box wholesale product image",
     "sourceUrl": "",
     "sourceTitle": "Uploaded product image",
@@ -1902,6 +2027,7 @@ window.POKECHINA_PRODUCTS = [
     "packConfiguration": "Sealed wholesale configuration",
     "shippingOrigin": "China / U.S. coordinated fulfillment",
     "moq": "Request current MOQ",
-    "description": "Riftbound: League of Legends TCG - Secret Garden Gift Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers."
+    "description": "Riftbound: League of Legends TCG - Secret Garden Gift Box is part of the current TCG wholesale catalog available through PokeChina Wholesale. Built for card shops, livestream sellers, online sellers, and repeat wholesale buyers.",
+    "originalImageUrl": "assets/images/Riftbound League of Legends TCG - Secret Garden Gift Box chinese.png"
   }
 ];

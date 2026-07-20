@@ -95,6 +95,9 @@ if ((newArrivalsGalleryScript.match(/assets\/new-arrivals\/[^"]+\.(jpg|png)/g) |
 for (const text of ["Chinese Pokemon Products", "catalog-search", "catalog-count", "products-data.js"]) {
   if (!productsHtml.includes(text)) missing.push(`Products page missing: ${text}`);
 }
+for (const text of ["pageSize = 24", "catalog-load-more", "loadMoreProducts", "visible.slice(0, visibleLimit)"]) {
+  if (!productsHtml.includes(text)) missing.push(`Products page mobile loading safeguard missing: ${text}`);
+}
 for (const text of ["product-prices.js", "product-price-panel", "baseCasePrice", "plusShippingFee", "shippingQuotedByDestination"]) {
   if (!productsHtml.includes(text) && !productPricesScript.includes(text) && !i18n.includes(text)) missing.push(`Product price display missing: ${text}`);
 }
@@ -121,12 +124,15 @@ if (/\bUPS\/CASE\/USD\b|shippingUsd/.test(productPricesScript)) {
 if (!products.every((product) => product.name && product.imageUrl && product.imageAlt && product.description)) {
   missing.push("Every product must include name, imageUrl, imageAlt, and description.");
 }
-const uploadedImages = products.filter((product) => product.imageUrl.startsWith("assets/images/"));
-if (uploadedImages.length < 120) {
-  missing.push(`Expected most products to use uploaded images, found ${uploadedImages.length}.`);
+const optimizedImages = products.filter((product) => product.imageUrl.startsWith("assets/images-web/"));
+if (optimizedImages.length < 120) {
+  missing.push(`Expected most products to use optimized web images, found ${optimizedImages.length}.`);
 }
-if (!products.every((product) => product.imageUrl.startsWith("assets/images/") || product.imageUrl.startsWith("data:image/svg+xml"))) {
-  missing.push("Every product must have either an uploaded image or generated placeholder image.");
+if (!products.every((product) => product.imageUrl.startsWith("assets/images-web/") || product.imageUrl.startsWith("data:image/svg+xml"))) {
+  missing.push("Every product must have either an optimized uploaded image or generated placeholder image.");
+}
+for (const product of optimizedImages) {
+  if (!fs.existsSync(product.imageUrl)) missing.push(`Missing optimized product image: ${product.imageUrl}`);
 }
 
 for (const text of ["U.S. Clearance Deals", "deal-catalog", "deals-data.js", "Ask About Current Deals"]) {
@@ -193,6 +199,12 @@ for (const text of [".new-arrivals-section", ".new-arrivals-image.is-visible", "
 for (const text of [".new-arrivals-lightbox", ".new-arrivals-thumbnails", ".lightbox-next"]) {
   if (!css.includes(text)) {
     console.error(`site.css missing new arrivals lightbox style: ${text}`);
+    process.exit(1);
+  }
+}
+for (const text of [".catalog-load-more-row", ".catalog-load-more[hidden]"]) {
+  if (!css.includes(text)) {
+    console.error(`site.css missing product loading style: ${text}`);
     process.exit(1);
   }
 }
