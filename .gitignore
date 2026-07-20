@@ -1,0 +1,27 @@
+.superpowers/
+
+# Local environment secrets
+.env
+.env.local
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+
+# Generated upload packages and temporary extraction folders
+github-upload-*/
+github-upload-clean-*/
+github-upload-*.zip
+github-upload-clean-*.zip
+tmp-*/
+tmp-*-xlsx-*/
+
+# Local source spreadsheets used to generate product data
+*.xlsx
+*.xls
+weekly-prices.csv/
+
+# Large raw shipment media; website uses shipment-web-*.jpg instead
+assets/shipments/*.mp4
+assets/shipments/shipment-*.jpg
+!assets/shipments/shipment-web-*.jpg

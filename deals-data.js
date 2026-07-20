@@ -1,0 +1,32 @@
+window.POKECHINA_CLEARANCE_DEALS = [
+  {
+    name: "Assorted U.S. Warehouse Clearance Lot",
+    category: "Mixed Goods",
+    imageUrl: "",
+    price: "Contact for deal pricing",
+    quantity: "Available now",
+    location: "Ships from U.S. warehouse",
+    condition: "New / overstock inventory",
+    description: "A flexible clearance lot for buyers looking for fast-moving non-Pokemon inventory shipped from the United States.",
+  },
+  {
+    name: "Collectibles & Hobby Product Lot",
+    category: "Collectibles",
+    imageUrl: "",
+    price: "Wholesale quote available",
+    quantity: "Limited quantity",
+    location: "Ships from U.S. warehouse",
+    condition: "New / shelf-ready",
+    description: "Great for livestream sellers, online resellers, and retail shops looking for high-value hobby product deals.",
+  },
+  {
+    name: "E-Commerce Reseller Deal Lot",
+    category: "Resale Lots",
+    imageUrl: "",
+    price: "Request current pricing",
+    quantity: "Updated weekly",
+    location: "Ships from U.S. warehouse",
+    condition: "Overstock / closeout",
+    description: "Designed for sellers who need strong margins, quick domestic shipping, and deal-focused inventory.",
+  },
+];
