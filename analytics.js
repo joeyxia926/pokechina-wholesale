@@ -19,6 +19,25 @@
   gtag("config", measurementId);
 
   if (metaPixelId && metaPixelId !== "META_PIXEL_ID_HERE") {
+    function sendMetaFallback(eventName) {
+      var image = new Image();
+      image.width = 1;
+      image.height = 1;
+      image.style.display = "none";
+      image.src =
+        "https://www.facebook.com/tr?id=" +
+        encodeURIComponent(metaPixelId) +
+        "&ev=" +
+        encodeURIComponent(eventName) +
+        "&dl=" +
+        encodeURIComponent(window.location.href) +
+        "&rl=" +
+        encodeURIComponent(document.referrer || "") +
+        "&if=false&ts=" +
+        Date.now();
+      document.body.appendChild(image);
+    }
+
     (function (f, b, e, v, n, t, s) {
       if (f.fbq) return;
       n = f.fbq = function () {
@@ -38,12 +57,19 @@
 
     window.fbq("init", metaPixelId);
     window.fbq("track", "PageView");
+    window.setTimeout(function () {
+      if (!window.fbq || !window.fbq.loaded) sendMetaFallback("PageView");
+    }, 1500);
 
     document.addEventListener("click", function (event) {
       var link = event.target && event.target.closest ? event.target.closest("a") : null;
-      if (!link || !link.href || !window.fbq) return;
+      if (!link || !link.href) return;
       if (link.href.indexOf("wa.me/17203170080") !== -1 || link.href.indexOf("inquiry.html") !== -1) {
-        window.fbq("track", "Lead");
+        if (window.fbq) {
+          window.fbq("track", "Lead");
+        } else {
+          sendMetaFallback("Lead");
+        }
       }
     });
   }
